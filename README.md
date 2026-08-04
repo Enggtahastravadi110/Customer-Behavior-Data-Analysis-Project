@@ -1,4 +1,5 @@
 📊 Customer Behaviour Analysis
+
 📌 Overview
 
 This project demonstrates a complete Data Analytics workflow using Python, MySQL, Power BI, and Gamma. The objective is to analyze customer shopping behavior, transform raw data into meaningful insights, and present the findings through an interactive dashboard and professional report. The project follows a real-world analytics pipeline from data collection to business intelligence.
@@ -31,16 +32,19 @@ MySQL Server
 Power BI
 Gamma AI (Presentation)
 Microsoft Word (Project Report)
+
 🚀 Project Workflow
 1. Load Dataset
 Imported the CSV dataset into Python using Pandas.
 Explored dataset structure and data types.
+
 2. Exploratory Data Analysis (EDA)
 Checked dataset dimensions
 Analyzed data types
 Generated descriptive statistics
 Identified missing values
 Explored customer behavior patterns
+
 3. Data Cleaning
 Filled missing values
 Standardized column names
@@ -49,10 +53,9 @@ Created age groups
 Converted purchase frequency into numeric values
 Removed unnecessary columns
 Exported the cleaned dataset to MySQL.
+
 4. SQL Analysis (MySQL)
-
 Performed business-focused SQL queries, including:
-
 Revenue by gender
 Top-rated products
 Average purchase amount
@@ -61,16 +64,16 @@ Discount analysis
 Customer segmentation
 Revenue by age group
 Product performance ranking
+
 5. Power BI Dashboard
-
 Built an interactive dashboard with:
-
 KPI Cards
 Revenue by Category
 Sales by Age Group
 Subscription Analysis
 Revenue Distribution
 Interactive Filters (Gender, Category, Payment Method, Subscription Status)
+
 6. Documentation
 Created a detailed project report.
 Designed a professional presentation using Gamma AI.
